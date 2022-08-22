@@ -1,0 +1,11 @@
+<script src="{{ asset('assets/frontend/js/jquery.js')}}"></script>
+<script src="{{ asset('assets/frontend/js/popper.min.js')}}"></script>
+<script src="{{ asset('assets/frontend/js/bootstrap.min.js')}}"></script>
+<script src="{{ asset('assets/frontend/js/jquery-ui.js')}}"></script>
+<script src="{{ asset('assets/frontend/js/jquery.fancybox.js')}}"></script>
+<script src="{{ asset('assets/frontend/js/owl.js')}}"></script>
+<script src="{{ asset('assets/frontend/js/scrollbar.js')}}"></script>
+<script src="{{ asset('assets/frontend/js/validate.js')}}"></script>
+<script src="{{ asset('assets/frontend/js/appear.js')}}"></script>
+<script src="{{ asset('assets/frontend/js/wow.js')}}"></script>
+<script src="{{ asset('assets/frontend/js/custom-script.js')}}"></script>
